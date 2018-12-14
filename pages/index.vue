@@ -9,7 +9,7 @@
           <img class="group14" src="~/assets/image/group-14.png"/>
           <img class="group15" src="~/assets/image/group-15.png"/>
           <img class="group16" src="~/assets/image/group-16.png"/>
-          <img class="group17" src="~/assets/image/group-17.png"/>
+          
           <img class="ellipse2" src="~/assets/image/ellipse-2.png"/>
           <img class="ellipse2copy" src="~/assets/image/ellipse-2-copy.png"/>
           <img class="shape1" src="~/assets/image/shape-1.png"/>
