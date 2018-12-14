@@ -46,7 +46,7 @@ export default {
       
       let pathaname = window.location.pathname.split('/')
 
-      console.log("window.location.pathname",pathaname[2])
+      //console.log("window.location.pathname",pathaname[2])
       const param = pathaname[2]
 
       let path = ''
@@ -82,8 +82,8 @@ export default {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  font-family: 'Noto Sans KR', sans-serif !important;
-  background-color: #16181d !important;
+  font-family: 'Noto Sans KR', sans-serif;
+  background-color: #16181d;
 }
 
 #wrapper {
@@ -107,7 +107,7 @@ export default {
   background-image: url('~assets/image/body_bg.png');
   background-repeat: repeat;
   opacity: 0.5;
-  z-index: 0;
+  z-index: -9999;
 }
 
 nav,main,footer {
