@@ -1,0 +1,6 @@
+@media screen and (min-width: 1349px) {
+  .token-column {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+}

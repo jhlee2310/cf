@@ -1,0 +1,82 @@
+@media screen and (min-width: 1025px) and (max-width: 1348px) {
+  .header-title {
+    font-size: 18px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    text-align: left;
+    color: #656c79;
+  }
+  .header-sub {
+    display: inline-block;
+  }
+  .header-title-eos {
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 1.2px;
+    color: #16b4ff;
+    margin-left: 95px;
+  }
+  .header-title-eos-currency {
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0.7px;
+    color: #7f8fa4;
+  }
+  .header-title-usd {
+    margin-left: 42px;
+    font-size: 18px;
+    font-weight: normal;
+    letter-spacing: 1.2px;
+    color: #ffffff;
+  }
+  .header-title-usd-currency {
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.7px;
+    text-align: left;
+    color: #7f8fa4;
+  }
+  .header-title-collapse {
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.8px;
+    text-align: right;
+    color: #7f8fa4;
+    padding: 0;
+    margin: 0;
+  }
+  .type {
+    font-size: 13px;
+    letter-spacing: 0.8px;
+  }
+  .value {
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.8px;
+    text-align: right;
+    color: #ffffff;
+  }
+  .symbol {
+    font-size: 10px;
+    letter-spacing: 0.6px;
+    color: #7f8fa4;
+  }
+  .weight {
+    font-size: 13px;
+    letter-spacing: 0.8px;
+    color: #7f8fa4;
+    text-align: right;
+  }
+}

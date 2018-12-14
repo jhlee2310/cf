@@ -1,0 +1,30 @@
+@media screen and (min-width: 1025px) and (max-width: 1348px) {
+  .header-title {
+    display: inline-block;
+    width: 180px;
+    margin-right: 10px;
+  }
+  .header-title strong {
+    font-size: 18px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    text-align: left;
+    color: #656c79;
+    vertical-align: middle;
+  }
+  .search-title {
+    display: inline-block;
+    width: 180px;
+    margin-right: 10px;
+  }
+  .filter-box-label {
+    display: inline-block;
+    width: 150px;
+  }
+  .button-action {
+    padding: 3px 18px !important;
+  }
+}

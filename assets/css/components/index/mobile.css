@@ -1,0 +1,73 @@
+@media screen and (max-width: 575px) {
+  .cenDiv{
+    width:100%;
+  }
+
+  .justify-content-center{
+    padding-top:calc(50vh - (150px));
+  }
+
+  #main_logo{
+    min-width:300px;
+  }
+
+  #main_logo>img{
+    width:199px;
+    margin-right:10px;
+  }
+
+  #main_logo span{
+    font-size:12px;
+  }
+  
+  .searchInput::placeholder{
+    font-size:14px;
+  }
+  .worldmap {
+    height:45%;
+    top:auto;
+    left:-5vh;
+    bottom:-5%;
+  }
+
+  .group14{
+    left:10%;
+    top:-36px;
+  }
+  .group15,.group17,.shape1,.shape1copy2,.ellipse2{
+    display:none;
+  }
+  .shape1copy3{
+    top:calc(14% + (30px)); 
+    right:66px;
+  }
+
+  .ellipse2copy{
+    top:14%;    
+    width:53px;
+    right:32px;
+  }
+
+  .shape4{
+    top:7.5%;
+    right:7%;
+  }
+
+  .shape1copy{
+    left:-175px;
+    top:auto;
+    bottom:-270px;
+  }
+
+  .shape1{
+    display:none
+  }
+
+  .line {
+    position: fixed;
+    top:-5vh;
+    height:85vh;
+    left: -12vh;    
+  }
+
+}

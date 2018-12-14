@@ -1,0 +1,48 @@
+@media screen and (min-width: 576px) and (max-width: 1024px) {
+  .header {
+    padding: 0.75rem 0.25rem;
+  }
+  .header-title {
+    font-size: 18px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    text-align: left;
+    color: #656c79;
+  }
+  .header-title-collapse {
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.8px;
+    text-align: right;
+    color: #7f8fa4;
+    padding: 0;
+    margin: 0;
+  }
+  .permission-box-col1 {
+    display: inline-block;
+    width: initial;
+    padding: 10px;
+  }
+  .permission-box-col1 span {
+    font-size: 13px;
+    line-height: normal;
+  }
+  .permission-box-col2 {
+    padding: 0.75rem 0;
+  }
+  .permission-box-text-weight {
+    font-size: 12px;
+    line-height: normal;
+  }
+  .permission-box-text-key {
+    font-size: 12px;
+    line-height: normal;
+    padding-left: 10px;
+  }
+}
